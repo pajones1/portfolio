@@ -1,5 +1,5 @@
 title: Patrick Jones
-#
-#
+#logo: (place path to the image here)
+#description: text below image
 show_downloads: true
-theme: minimal
+theme: jekyll-theme-minimal
