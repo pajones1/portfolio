@@ -24,5 +24,6 @@ Education Committee - Ensure team members have the training and resources to per
 
 
 ### Projects
-#### Meixco Crime Data EDA
-- Exploring
+#### Meixco Crime Data Analysis
+- Exploritory data analysis of data provided by the Federal Goverment of Mexico
+- 
